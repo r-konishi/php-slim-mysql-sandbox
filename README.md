@@ -1,1 +1,13 @@
-# php-slim-mysql-sandbox
+# local
+
+## start
+
+```
+$ docker-compose up --build -d
+```
+
+## stop
+
+```
+$ docker-compose down
+```
